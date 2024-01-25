@@ -1,0 +1,5 @@
+#pickle
+#gradio
+#pandas
+sklearn
+tensorflow
